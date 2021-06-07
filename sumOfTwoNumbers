@@ -1,0 +1,7 @@
+function sumOfTwoNumbers() {
+    numOne = prompt("Enter the first nunmber: ");
+    numTwo = prompt("Enter the second number: ");
+    var sum = numOne + numTwo;
+    console.log("The sum of these two numbers is", sum);
+    return sum;
+}
